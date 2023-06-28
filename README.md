@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=25&lines=Glad+to+see+you+here+inside+my+Repo-%22Razorpay_clone%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=55&lines=Glad+to+see+you+here+inside+my+Repo-%22Razorpay_clone%22)](https://git.io/typing-svg)
 # Razorpay Clone
 
 This is a clone project of the Razorpay website, implemented using HTML, CSS, and Tailwind CSS. The project aims to replicate the user interface and basic functionality of the Razorpay payment gateway.
